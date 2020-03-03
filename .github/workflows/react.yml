@@ -14,6 +14,6 @@ jobs:
     - name: Run a multi-line script
       run: |
         git config --global user.name "${{ github.actor }}"
-        git remote set-url origin https://${{ secrets.fb8044e5bf92d14f99bf18ffd20889dfe1a978f7 }}@github.com/${{ github.repository }}.git
+        git remote set-url origin https://${{ secrets.PERSONAL_TOKEN }}@github.com/${{ github.repository }}.git
         npm install
         npm run deploy
