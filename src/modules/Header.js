@@ -4,7 +4,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header className="words-app">
-      <h1> Counter World </h1>
+      <h1> Counter World - Testing & Deployment </h1>
     </header>
   );
 };
