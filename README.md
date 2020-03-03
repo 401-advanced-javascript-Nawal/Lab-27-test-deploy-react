@@ -3,7 +3,10 @@
 ### Author: Nawal Suliman 
 
 ### Links and Resources
-- [submission PR](https://github.com/401-advanced-javascript-Nawal/Lab-27-test-deploy-react/pull/1)
+- [submission PR Tests gh Deployment](https://github.com/401-advanced-javascript-Nawal/Lab-27-test-deploy-react/pull/1)
+- [submission PR , Netlify](https://github.com/401-advanced-javascript-Nawal/Lab-27-test-deploy-react/pull/2)
+- [ Netlify Site ](https://objective-franklin-577a0a.netlify.com/)
+
 - [ci/cd](https://github.com/401-advanced-javascript-Nawal/Lab-27-test-deploy-react/actions)
 
 ### Setup
